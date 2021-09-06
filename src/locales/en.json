@@ -1,0 +1,40 @@
+{
+  "header": {
+    "home" : "Home",
+    "general_info" : "General information",
+    "admission" : "Admission",
+    "education" : "Education",
+    "science" : "Science",
+    "teachers" : "Teachers",
+    "students_life" : "Students life",
+    "partnership" : "Partnership"
+  },
+  "general_info": {
+    "regulation": "Structural unit regulation",
+    "history": "History of the department of electronic devices and systems",
+    "administration": "Administration",
+    "laboratories": "Laboratories and equipment",
+    "achievements": "Achievements",
+    "teachers": "Famous graduates, teachers and academics",
+    "employment": "Employment",
+    "trade_union": "Trade Union",
+    "honor_code": "Code of Honor",
+    "contacts": "Contacts"
+  },
+  "main": {
+    "department": "Department of Electronic Devices and Systems",
+    "faculty": "Igor Sikorsky Kyiv Polytechnic Institute Faculty of Electronics",
+    "disciplines": "Studied disciplines",
+    "news": "Last news"
+  },
+  "disciplines": {
+    "ect": "Electrical circuit theory",
+    "mpt": "Microprocessor technology",
+    "paal": "Programming and algorithmic languages",
+    "ltaqe": "Laser technology and quantum electronics"
+  },
+  "sidenav": {
+    "schedule": "Schedule",
+    "contacts": "Contacts"
+  }
+}
